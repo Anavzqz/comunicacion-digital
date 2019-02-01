@@ -1,0 +1,14 @@
+.navbar {
+    color: white;
+    margin-top: 4%;
+    display: flex;
+    font-size: 1em;
+}
+.navbar-brand {
+    margin-top: 0%;
+    padding-top: 0%;
+    margin-bottom: 1.5%;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}

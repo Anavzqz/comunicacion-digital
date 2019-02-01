@@ -1,0 +1,11 @@
+.fab, .far {
+    color: white;
+    font-size: 1.5em;
+    justify-content: right;
+}
+.navbar-expand-lg {
+    justify-content: flex-end;
+}
+.icons {
+    margin-right: 8%;
+}
