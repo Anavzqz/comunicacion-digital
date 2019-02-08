@@ -8,6 +8,11 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
 import { Navbar2Component } from './components/navbar2/navbar2.component';
 import { AlarmsComponent } from './components/alarms/alarms.component';
+import { AboutComponent } from './components/about/about.component';
+import { ProductsComponent } from './components/products/products.component';
+import { ServiceComponent } from './components/service/service.component';
+import { ContactComponent } from './components/contact/contact.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +21,12 @@ import { AlarmsComponent } from './components/alarms/alarms.component';
     NavbarComponent,
     CarouselComponent,
     Navbar2Component,
-    AlarmsComponent
+    AlarmsComponent,
+    AboutComponent,
+    ProductsComponent,
+    ServiceComponent,
+    ContactComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

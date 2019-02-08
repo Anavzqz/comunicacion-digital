@@ -1,8 +1,8 @@
 .navbar {
     color: white;
-    margin-top: 4%;
     display: flex;
     font-size: 1em;
+    height: 3em;
 }
 .navbar-brand {
     margin-top: 0%;
