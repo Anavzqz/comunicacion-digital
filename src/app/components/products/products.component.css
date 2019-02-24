@@ -1,3 +1,11 @@
 .products {
-    background-color: #cccccc;
+    background-color: white;
+    padding: 5%;
+}
+h3, h4{
+    font-family: 'Anton', sans-serif;
+}
+p, li{
+    font-family: 'Slabo 27px', serif;
+    font-size: 1.4em;
 }
