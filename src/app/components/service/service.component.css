@@ -1,3 +1,11 @@
 .maintance {
-    background-color: #cccccc;
+    background-color: white;
+    padding: 5%;
+}
+h2, h3{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1em;
 }

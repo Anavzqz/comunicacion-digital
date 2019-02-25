@@ -1,0 +1,25 @@
+
+h1, h2{
+    font-family: 'Oswald', sans-serif;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+.i2, .i3{
+    text-shadow: 1px 2px #999;
+}
+.sha{
+    text-shadow: 1px 2px black;
+}
+.c2 {
+    top: 35%;
+    bottom: auto;
+    right: 12%;
+    left: auto;
+    
+}
+.c3, .c1 {
+    top: 35%;
+    bottom: auto;
+}
+

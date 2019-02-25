@@ -2,7 +2,6 @@
     width: 100%;
     background-color: white;
     color: black;
-    font-family: 'Slabo 27px', serif;
 }
 img {
     padding: 0%;
@@ -19,24 +18,20 @@ img {
     transition: all 0.7s ease-in-out;
 }
 .camera .text {
+    margin-top: 0%;
     text-align: justify;
     transition: all 0.5s linear;
     opacity: 0;
 }
 .camera h4{
-    border-bottom: 1px solid rgba(255, 255, 255, 0.6);
-    background: transparent;
-    margin: 20px 40px 0px 40px;
-    transform: scale(1);
-    color: black;
-    transition: all 0.5s linear;
-    opacity: 0;
+    font-family: 'Oswald', sans-serif;
 }
 .camera p {
     color: black;
     opacity: 0;
     transform: scale(0);
     transition: all 0.5s linear;
+    font-family: 'Open Sans', sans-serif;
 }
 .camera a.link {
     opacity: 0;

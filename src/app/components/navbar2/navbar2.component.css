@@ -1,6 +1,7 @@
 .navbar{
-    font-family: 'Slabo 27px', serif;
-    font-size: 1.3em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: 1.1em;
 }
 .number{
     justify-content: left;

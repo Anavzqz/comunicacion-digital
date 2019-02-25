@@ -1,14 +1,18 @@
 .navbar {
-    color: white;
+    color: black;
     display: flex;
-    font-size: 1em;
+    font-size: 1.2em;
     height: 3em;
+    font-family: 'Oswald', sans-serif;
+    background-color: white;
 }
 .navbar-brand {
     margin-top: 0%;
     padding-top: 0%;
     margin-bottom: 1.5%;
 }
-.navbar-collapse {
-    justify-content: flex-end;
+.collapse{
+    justify-items: right;
+    justify-content: center;
+    width: 100%;
 }
